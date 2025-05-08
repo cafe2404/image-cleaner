@@ -2,6 +2,8 @@
 
 A powerful image utility tool that lets you quickly remove backgrounds, edit image metadata, upload to the cloud, and access a wide range of image editing features.
 
+🌐 **[View App on CofyDev Store](https://software.cofydev.com/store/1)**
+
 ---
 
 ## 🚀 Overview
